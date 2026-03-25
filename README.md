@@ -2,7 +2,7 @@
 
 This project focuses on building a Machine Learning model to predict whether a credit card application will be approved or not based on applicant data.
 
-##Project Overview
+#Project Overview
 - Data preprocessing and cleaning
 - Feature engineering
 - Model training and evaluation
@@ -14,7 +14,7 @@ This project focuses on building a Machine Learning model to predict whether a c
 - Random Forest
 - (Add any model you used)
 
-##Dataset
+#Dataset
 The dataset contains information about applicants such as:
 - Age
 - Income
@@ -22,14 +22,14 @@ The dataset contains information about applicants such as:
 - Credit history
 - Other financial indicators
 
-##Technologies Used
+#Technologies Used
 - Python
 - Pandas
 - NumPy
 - Scikit-learn
 - Matplotlib / Seaborn
 
-## How to Run
+#How to Run
 
 1. Clone the repository:
 ```bash
